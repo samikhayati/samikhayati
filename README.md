@@ -1,7 +1,7 @@
 ## 👷 Currently Working On
 
 I'm currently developing a **Qt-based menu system** to unify and streamline the user experience for my projects:
-- 🧠 [**Cyber-Cell**](https://github.com/samikhayati/cyber-cell)
+- 🔴 [**Cyber-Cell**](https://github.com/samikhayati/cyber-cell)
 - 🎨 [**Virtual-Painter**](https://github.com/samikhayati/virtual-painter)
 
 <!--
